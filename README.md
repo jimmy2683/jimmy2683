@@ -14,18 +14,6 @@ I'm a **Computer Science student at IIT Hyderabad (B.Tech, Batch 2027)**, passio
 🔐 **Cybersecurity**: CTF Challenges, Exploit Development\
 ⚡ **System Design**: Scalable Architecture, Distributed Systems
 
-## 🏗️ Featured Projects
-
-### 🌍 **Hacko Fiesta Project** *(Smart Traffic & Parking System)*
-
-- Intelligent traffic management using geospatial mapping
-- Features adaptive traffic lights & multi-modal integration
-
-### 🌟 **Skibbrizz** *(Social Media Platform)*
-
-- Video & blog posting with a unique reward system
-- Features a 'rizz points' leaderboard 🏆
-
 ## 📫 Connect with Me
 
 📌 **GitHub**: [jimmy2683](https://github.com/jimmy2683)\
