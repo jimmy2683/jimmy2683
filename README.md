@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science student, passionate about **AI, Web Development, Competitive Programming, and Cybersecurity**. I enjoy building **scalable applications**, solving complex problems, and working on **cutting-edge tech projects**.
+I'm a **Computer Science** student, passionate about **AI, Web Development, Competitive Programming, and Cybersecurity**. I enjoy building **scalable applications**, solving complex problems, and working on **cutting-edge tech projects**.
 
 ## 🔥 Tech Stack & Skills
 
