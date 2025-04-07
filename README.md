@@ -18,7 +18,7 @@ I'm a **Computer Science** student, passionate about **AI, Web Development, Comp
 
 📌 **GitHub**: [jimmy2683](https://github.com/jimmy2683)\
 💼 **LinkedIn**: [Karan Gupta](https://www.linkedin.com/in/karan-gupta-b27119283/)\
-📧 **Email**: [karangupta@iith.ac.in](mailto\:karangupta@iith.ac.in)
+📧 **Email**: [karangupta@iith.ac.in](mailto\:cs23btech11023@iith.ac.in), [karangupta@gmail.com](mailto\:karangupta0805@gmail.com)
 
 💡 *Always open to collaborations, innovative ideas, and challenging projects!* 🚀
 
